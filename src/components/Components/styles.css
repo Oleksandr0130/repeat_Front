@@ -1,0 +1,10 @@
+.components-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url(../../assets/gaming_pc_headline_pcs.jpg);
+}

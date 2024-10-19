@@ -1,10 +1,12 @@
 import "./App.css";
-import Components from "./components/Components/Components";
+import ProductCardPage from "./pages/ProductCardPage/ProductCardPage"
+import LoginFormPage from "./pages/LoginFormPage/LoginFormPage"
 
 function App() {
   return (
     <div className="App">
-       <Components />
+      {/* <ProductCardPage /> */}
+      <LoginFormPage />
     </div>
   );
 }

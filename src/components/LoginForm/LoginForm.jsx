@@ -5,7 +5,7 @@ import Input from "../Input/Input";
 function LoginForm() {
   return (
     <form className="login-form-wrapper">
-      <div className="login-form-title">Login Form</div>
+      {/* <div className="login-form-title">Login Form</div> */}
       <div className="input-container">
         <Input
         id="email"

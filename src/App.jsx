@@ -5,8 +5,8 @@ import LoginFormPage from "./pages/LoginFormPage/LoginFormPage"
 function App() {
   return (
     <div className="App">
-      {/* <ProductCardPage /> */}
-      <LoginFormPage />
+      <ProductCardPage />
+      {/* <LoginFormPage /> */}
     </div>
   );
 }
